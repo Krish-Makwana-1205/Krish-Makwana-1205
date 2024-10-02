@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Krish-Makwana-1205
+- 🏛️ I am currently studying in (DA-IICT) Dhirubhai Ambani Institute of Information and communication technology
 - 👀 I’m interested in AI,Data structure and algorithms as well as full stack web dev.
 - 🌱 I’m currently learning AI, machine_learning, web dev and practicing DSA.
 - 📫 My Email address is krish.rajput1205@gmaiil.com
